@@ -35,7 +35,22 @@
     "operational": "Operational",
     "backup": "Backup",
     "service": "Service",
-    "attention": "Attention"
+    "attention": "Attention",
+    "dashboardOverview": "Dashboard Overview",
+    "railwayOpsAtGlance": "Railway operations management at a glance",
+    "trainsReady": "Trains Ready",
+    "adDeadlines": "Ad Deadlines",
+    "systemHealth": "System Health",
+    "quickActions": "Quick Actions",
+    "navigateToKeyAreas": "Navigate to key operational areas",
+    "dataPrediction": "Data Prediction",
+    "viewOperationalAnalytics": "View operational analytics",
+    "maintenanceHub": "Maintenance Hub",
+    "jobCardsAndFitness": "Job cards and fitness tracking",
+    "trainAudit": "Train Audit",
+    "detailedTrainProfiles": "Detailed train profiles",
+    "stablingStatus": "Stabling Status",
+    "bayAllocationOverview": "Bay allocation overview"
   },
   "scheduling": {
     "title": "Train Scheduling",
